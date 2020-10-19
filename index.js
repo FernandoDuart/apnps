@@ -11,7 +11,7 @@ app.get('/', function(req,res){
 
 app.listen(3000, function(){
 
-     console.log("coneçao iniciada na porta 3000")
+     console.log("coneçao inicializada")
 
 
 })
